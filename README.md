@@ -9,7 +9,10 @@ You can run scripts in following order to fine-tune a T5:
 * python fine_tune.py
 
 ## requirements
-numpy, pytorch, transformers, tensorboardX
+numpy, pip install numpy
+pytorch, see https://pytorch.org/get-started/locally/
+transformers, https://pytorch.org/get-started/locally/
+tensorboardX, pip install tensorboardX
 
 ## inference_sample.py
 Test the inference function of pre-trained T5 
