@@ -8,7 +8,7 @@ You can run scripts in following order to fine-tune a T5:
 * python inference_sample.py
 * python fine_tune.py
 
-##requirements
+## requirements
 numpy, pytorch, transformers, tensorboardX
 
 ## inference_sample.py
@@ -26,5 +26,5 @@ Accumulation gradient is used here to overcome the short of GPU resources.
 I built my dataset here.
 
 ## data_processing.py
-This script is was used to test the data processing approach, you do not 
+This script is used to test the data processing approach, you do not 
 need to run it when training T5.
