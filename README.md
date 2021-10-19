@@ -1,4 +1,4 @@
-#T5 Question Answering Chat-bot
+# T5 Question Answering Chat-bot
 This program implements data pre-process and preparation, fine-tuning 
 process of T5 model, inference process of T5 model. We used the pre-trained 
 T5 model published by hugging-face because of the shortage of GPU resources.
