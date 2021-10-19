@@ -10,8 +10,11 @@ You can run scripts in following order to fine-tune a T5:
 
 ## requirements
 numpy, pip install numpy
+
 pytorch, see https://pytorch.org/get-started/locally/
-transformers, https://pytorch.org/get-started/locally/
+
+transformers, pip install transformers / conda install -c huggingface transformers
+
 tensorboardX, pip install tensorboardX
 
 ## inference_sample.py
