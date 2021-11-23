@@ -1,0 +1,22 @@
+Here we list the contributions of the team members.
+
+Huang Xinchi:
+- Project idea proposal
+- Dataset searching & preparation
+- Model development & implementation
+- Code testing & review
+- paper: abstract, motivation, design and implementation, analysis
+
+Owen Sullivan:
+- Project idea proposal
+- Related paper review
+- Model development
+- Code testing & review
+- paper: related work, legal considerations, ethical considerations, conclusions
+
+Steve Gao:
+- Project idea proposal
+- Related paper review
+- Dataset preparation
+- Code testing & review
+- paper: motivation, design and implementation, analysis, conclusions
